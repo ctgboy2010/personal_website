@@ -36,7 +36,7 @@
                             </div>-->
                             <div class="checkbox pull-left">
                                 <p class="text-center"><a href="registration.php">Don't Have an account, Signup?</a></p>
-                            </div>
+                            </div>login.php:35
 
                             <button class="btn btn-ar btn-info pull-right btn-md" type="submit">
                                 <span aria-hidden="true" class="glyphicon glyphicon-log-in"></span>
